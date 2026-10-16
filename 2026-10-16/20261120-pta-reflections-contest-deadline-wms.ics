@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//WMS Wolf Ops//Morning Digest//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-10-16-20261120-pta-reflections-contest-deadline-wms@wms-wolfops
+DTSTAMP:20261016T143308Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:PTA Reflections Contest deadline (WMS)
+DESCRIPTION:Theme: What my culture means to me! Categories: Dance Choreogra
+ phy\, Film Production\, Literature\, Music Composition\, Photography\, Vis
+ ual Arts. Apply online via the Williamsburg homepage or wmspta.org.\nSourc
+ e: https://williamsburg.apsva.us/post/10-16-2026/
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR
