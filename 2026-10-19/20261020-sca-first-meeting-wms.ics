@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//WMS Wolf Ops//Morning Digest//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-10-19-20261020-sca-first-meeting-wms@wms-wolfops
+DTSTAMP:20261019T101833Z
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261021
+SUMMARY:SCA first meeting (WMS)
+DESCRIPTION:Student Council Association first meeting during ASP I in room 
+ 104. Questions: Mr. Klink.\nSource: https://williamsburg.apsva.us/post/10-
+ 19-2026/
+LOCATION:Williamsburg Middle School
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

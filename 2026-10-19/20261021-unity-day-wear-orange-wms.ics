@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//WMS Wolf Ops//Morning Digest//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-10-19-20261021-unity-day-wear-orange-wms@wms-wolfops
+DTSTAMP:20261019T101833Z
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261022
+SUMMARY:Unity Day: wear orange (WMS)
+DESCRIPTION:Unity Day for National Bullying Prevention Month. All students 
+ and staff are encouraged to wear orange.\nSource: https://williamsburg.aps
+ va.us/post/10-19-2026/
+LOCATION:Williamsburg Middle School
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR
