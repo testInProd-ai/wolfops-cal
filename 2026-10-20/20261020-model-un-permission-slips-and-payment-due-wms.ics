@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//WMS Wolf Ops//Morning Digest//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-10-20-20261020-model-un-permission-slips-and-payment-due-wms@wms-w
+ olfops
+DTSTAMP:20261020T102003Z
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261021
+SUMMARY:Model UN permission slips and payment due (WMS)
+DESCRIPTION:Model UN Club meets during ASP I in room C105. Permission slips
+  and payment for the upcoming conference are due. Questions: Mr. McDermott
+ .\nSource: https://williamsburg.apsva.us/post/10-20-2026/
+LOCATION:Williamsburg Middle School
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

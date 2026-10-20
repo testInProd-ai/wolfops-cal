@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//WMS Wolf Ops//Morning Digest//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-10-20-20261021-pta-spirit-night-at-sloppy-mama-s-wms@wms-wolfops
+DTSTAMP:20261020T102003Z
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261022
+SUMMARY:PTA Spirit Night at Sloppy Mama's (WMS)
+DESCRIPTION:Mention the fundraiser when ordering in person\, or use the cod
+ e "Williamsburg PTA" when ordering online. 15 percent of the cost is donat
+ ed to WMS.\nSource: https://williamsburg.apsva.us/post/10-20-2026/
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR
