@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//WMS Wolf Ops//Morning Digest//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-10-22-20261029-c-a-r-e-council-application-due-wms@wms-wolfops
+DTSTAMP:20261022T102112Z
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261030
+SUMMARY:C.A.R.E. Council application due (WMS)
+DESCRIPTION:7th and 8th graders: complete the online C.A.R.E. Council appli
+ cation. Form: https://docs.google.com/forms/d/e/1FAIpQLSe7-M4ymthkm8CKhvtV
+ v-UDugETk5tDOhGAprXbbLSZexbxBw/viewform Questions: Ms. Battle or Ms. Wiele
+ chowski.\nSource: https://williamsburg.apsva.us/post/10-22-2026/
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

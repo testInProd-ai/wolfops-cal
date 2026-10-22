@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//WMS Wolf Ops//Morning Digest//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-10-22-20261023-best-buddies-friday-funday-wms@wms-wolfops
+DTSTAMP:20261022T102112Z
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261024
+SUMMARY:Best Buddies Friday Funday (WMS)
+DESCRIPTION:Best Buddies Club Friday Funday in the main gym during TA. Chec
+ k in with your TA teacher first. Questions: Ms. Hogwood.\nSource: https://
+ williamsburg.apsva.us/post/10-22-2026/
+LOCATION:Williamsburg Middle School main gym
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR
