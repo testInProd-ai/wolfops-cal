@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//WMS Wolf Ops//Morning Digest//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-10-23-20261026-red-ribbon-spirit-day-wear-red-wms@wms-wolfops
+DTSTAMP:20261023T102523Z
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20261027
+SUMMARY:Red Ribbon Spirit Day: wear red (WMS)
+DESCRIPTION:Red Ribbon Week kicks off at Williamsburg Middle School. Everyo
+ ne is encouraged to wear red. Questions: Ms. Chisolm.\nSource: https://wil
+ liamsburg.apsva.us/post/10-23-2026/
+LOCATION:Williamsburg Middle School
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR
