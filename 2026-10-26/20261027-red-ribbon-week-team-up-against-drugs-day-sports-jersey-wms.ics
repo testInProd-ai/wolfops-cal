@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//WMS Wolf Ops//Morning Digest//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-10-26-20261027-red-ribbon-week-team-up-against-drugs-day-sports-je
+ rsey-wms@wms-wolfops
+DTSTAMP:20261026T102544Z
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261028
+SUMMARY:Red Ribbon Week: Team Up Against Drugs Day (sports jersey) (WMS)
+DESCRIPTION:Red Ribbon Week spirit day: wear your favorite sports jersey.\n
+ Source: https://williamsburg.apsva.us/post/10-26-2026/
+LOCATION:Williamsburg Middle School
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

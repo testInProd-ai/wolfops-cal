@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//WMS Wolf Ops//Morning Digest//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-10-26-20261102-1st-quarter-grades-close-wms@wms-wolfops
+DTSTAMP:20261026T102544Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261103
+SUMMARY:1st quarter grades close (WMS)
+DESCRIPTION:Check StudentVue and talk to teachers about missing assignments
+  or make-up work before 1st quarter grades close.\nSource: https://william
+ sburg.apsva.us/post/10-26-2026/
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

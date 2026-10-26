@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//WMS Wolf Ops//Morning Digest//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-10-26-20261120-pta-reflections-contest-deadline-wms@wms-wolfops
+DTSTAMP:20261026T102544Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:PTA Reflections Contest deadline (WMS)
+DESCRIPTION:Theme: What my culture means to me! Apply online through the Wi
+ lliamsburg Middle School homepage or wmspta.org.\nSource: https://williams
+ burg.apsva.us/post/10-26-2026/
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

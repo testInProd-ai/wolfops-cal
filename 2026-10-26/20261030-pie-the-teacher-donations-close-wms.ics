@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//WMS Wolf Ops//Morning Digest//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-10-26-20261030-pie-the-teacher-donations-close-wms@wms-wolfops
+DTSTAMP:20261026T102544Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:Pie the Teacher donations close (WMS)
+DESCRIPTION:Breast Cancer Awareness Month fundraiser. Cash only at lunch\, 
+ or donate online through the Williamsburg Middle School website.\nSource: 
+ https://williamsburg.apsva.us/post/10-26-2026/
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR
