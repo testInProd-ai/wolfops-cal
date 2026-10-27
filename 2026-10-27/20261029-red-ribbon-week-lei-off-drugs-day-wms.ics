@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//WMS Wolf Ops//Morning Digest//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-10-27-20261029-red-ribbon-week-lei-off-drugs-day-wms@wms-wolfops
+DTSTAMP:20261027T102514Z
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261030
+SUMMARY:Red Ribbon Week: Lei Off Drugs Day (WMS)
+DESCRIPTION:Red Ribbon Week spirit day: wear a lei or Hawaiian-themed cloth
+ ing.\nSource: https://williamsburg.apsva.us/post/10-27-2026/
+LOCATION:Williamsburg Middle School
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR
