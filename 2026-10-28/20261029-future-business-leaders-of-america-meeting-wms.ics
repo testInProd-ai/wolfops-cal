@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//WMS Wolf Ops//Morning Digest//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-10-28-20261029-future-business-leaders-of-america-meeting-wms@wms-
+ wolfops
+DTSTAMP:20261028T101612Z
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261030
+SUMMARY:Future Business Leaders of America meeting (WMS)
+DESCRIPTION:FBLA meets during ASP 1 in room 136. Questions: Ms. Briones.\nS
+ ource: https://williamsburg.apsva.us/post/10-28-2026/
+LOCATION:Williamsburg Middle School\, room 136
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR
