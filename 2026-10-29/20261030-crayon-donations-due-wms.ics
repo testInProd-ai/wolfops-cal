@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//WMS Wolf Ops//Morning Digest//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-10-29-20261030-crayon-donations-due-wms@wms-wolfops
+DTSTAMP:20261029T101711Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:Crayon donations due (WMS)
+DESCRIPTION:Drop old crayons in room 106 for the Crayon Initiative. Questio
+ ns: Mr. Thompson.\nSource: https://williamsburg.apsva.us/post/10-29-2026/
+LOCATION:Williamsburg Middle School\, room 106
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR
