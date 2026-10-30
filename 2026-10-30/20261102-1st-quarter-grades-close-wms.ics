@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//WMS Wolf Ops//Morning Digest//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-10-30-20261102-1st-quarter-grades-close-wms@wms-wolfops
+DTSTAMP:20261030T101958Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261103
+SUMMARY:1st Quarter grades close (WMS)
+DESCRIPTION:Check StudentVue and talk to teachers about any missing assignm
+ ents or make-up work.\nSource: https://williamsburg.apsva.us/post/10-30-20
+ 26/
+LOCATION:Williamsburg Middle School
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR
