@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//WMS Wolf Ops//Morning Digest//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-11-02-20261102-1st-quarter-grades-close-wms@wms-wolfops
+DTSTAMP:20261102T112216Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261103
+SUMMARY:1st Quarter grades close (WMS)
+DESCRIPTION:Last day of the first quarter. Check StudentVue and talk to tea
+ chers about any missing assignments or make-up work.\nSource: https://will
+ iamsburg.apsva.us/post/11-2-2026/
+LOCATION:Williamsburg Middle School
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR
