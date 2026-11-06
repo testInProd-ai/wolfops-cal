@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//WMS Wolf Ops//Morning Digest//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-11-06-20261211-boys-basketball-physical-due-wms@wms-wolfops
+DTSTAMP:20261106T112449Z
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261212
+SUMMARY:Boys Basketball physical due (WMS)
+DESCRIPTION:Physical must be submitted by today to try out for Boys Basketb
+ all this winter. No exceptions. Questions: Ms. Hogwood.\nSource: https://w
+ illiamsburg.apsva.us/post/11-6-2026/
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR
