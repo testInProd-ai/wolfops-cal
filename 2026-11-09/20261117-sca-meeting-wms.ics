@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//WMS Wolf Ops//Morning Digest//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-11-09-20261117-sca-meeting-wms@wms-wolfops
+DTSTAMP:20261109T111949Z
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261118
+SUMMARY:SCA meeting (WMS)
+DESCRIPTION:Williamsburg Middle School Student Council Association meeting 
+ during ASP 1 in room 104. Participants will start creating a logo\, slogan
+ \, and mission statement for this year's SCA and are encouraged to bring a
+  fellow student. Questions: Mr. Klink.\nSource: https://williamsburg.apsva
+ .us/post/11-9-2026/
+LOCATION:Williamsburg Middle School room 104
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

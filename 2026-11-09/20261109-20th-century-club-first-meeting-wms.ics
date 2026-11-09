@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//WMS Wolf Ops//Morning Digest//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-11-09-20261109-20th-century-club-first-meeting-wms@wms-wolfops
+DTSTAMP:20261109T111949Z
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261110
+SUMMARY:20th Century Club first meeting (WMS)
+DESCRIPTION:First meeting of the year in room 202 during ASP 1. This studen
+ t-led group will focus on major events from the last century\, including t
+ he Great Depression\, World Wars One and Two\, the Cold War\, Korea\, Viet
+ nam\, and more. All are welcome.\nSource: https://williamsburg.apsva.us/po
+ st/11-9-2026/
+LOCATION:Williamsburg Middle School room 202
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

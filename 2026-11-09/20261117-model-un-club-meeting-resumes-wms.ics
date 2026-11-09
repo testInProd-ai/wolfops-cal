@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//WMS Wolf Ops//Morning Digest//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-11-09-20261117-model-un-club-meeting-resumes-wms@wms-wolfops
+DTSTAMP:20261109T111949Z
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261118
+SUMMARY:Model UN Club meeting resumes (WMS)
+DESCRIPTION:Williamsburg Middle School Model UN Club meetings resume today\
+ , as usual. The club is not meeting Tuesday\, November 10. Questions: Mr. 
+ McDermott.\nSource: https://williamsburg.apsva.us/post/11-9-2026/
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR
