@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//WMS Wolf Ops//Morning Digest//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-11-12-20261112-latinas-rising-meeting-wms@wms-wolfops
+DTSTAMP:20261112T112111Z
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261113
+SUMMARY:Latinas Rising meeting (WMS)
+DESCRIPTION:Williamsburg Middle School Latinas Rising meeting during all gr
+ ade-level lunches. Bring your pass and lunch to Room 124. Questions: Ms. P
+ ortillo.\nSource: https://williamsburg.apsva.us/post/11-12-2026/
+LOCATION:Williamsburg Middle School Room 124
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR
