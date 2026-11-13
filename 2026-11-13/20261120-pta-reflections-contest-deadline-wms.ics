@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//WMS Wolf Ops//Morning Digest//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-11-13-20261120-pta-reflections-contest-deadline-wms@wms-wolfops
+DTSTAMP:20261113T112801Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:PTA Reflections Contest deadline (WMS)
+DESCRIPTION:Annual PTA Reflections Contest. Theme: What my culture means to
+  me. Apply via Williamsburg homepage or wmspta.org.\nSource: https://willi
+ amsburg.apsva.us/post/11-13-2026/
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

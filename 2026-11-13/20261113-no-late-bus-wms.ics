@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//WMS Wolf Ops//Morning Digest//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-11-13-20261113-no-late-bus-wms@wms-wolfops
+DTSTAMP:20261113T112801Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+SUMMARY:No late bus (WMS)
+DESCRIPTION:There is no late bus at Williamsburg Middle School today. Stude
+ nts staying after school need to arrange their own transportation home.\nS
+ ource: https://williamsburg.apsva.us/post/11-13-2026/
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

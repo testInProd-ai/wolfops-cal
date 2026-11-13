@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//WMS Wolf Ops//Morning Digest//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-11-13-20261113-pta-fall-festival-wms@wms-wolfops
+DTSTAMP:20261113T112801Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+SUMMARY:PTA Fall Festival (WMS)
+DESCRIPTION:Williamsburg Middle School PTA annual Fall Festival in the cour
+ tyard during all grade-level lunches. Each grade should go to the cafeteri
+ a at the designated lunchtime\; staff will escort students to the courtyar
+ d. There will be donuts\, cider\, music\, games\, and more.\nSource: https
+ ://williamsburg.apsva.us/post/11-13-2026/
+LOCATION:Williamsburg Middle School courtyard
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

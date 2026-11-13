@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//WMS Wolf Ops//Morning Digest//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-11-13-20261116-girls-soccer-and-ultimate-uniform-return-wms@wms-wo
+ lfops
+DTSTAMP:20261113T112801Z
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261117
+SUMMARY:Girls' Soccer and Ultimate uniform return (WMS)
+DESCRIPTION:Members of the Girls' Soccer and Ultimate teams should return u
+ niforms to Ms. Hogwood no later than Monday\, November 16.\nSource: https:
+ //williamsburg.apsva.us/post/11-13-2026/
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR
