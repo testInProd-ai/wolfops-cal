@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//WMS Wolf Ops//Morning Digest//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-11-16-20261119-pta-spirit-night-at-lebanese-taverna-wms@wms-wolfop
+ s
+DTSTAMP:20261116T112622Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+SUMMARY:PTA Spirit Night at Lebanese Taverna (WMS)
+DESCRIPTION:Williamsburg Middle School PTA Spirit Night fundraiser at Leban
+ ese Taverna. Mention the fundraiser when ordering in person\, or use the c
+ ode WMS when ordering online\, and 20 percent of the cost will be donated 
+ to support the school. Good at both the Westover and Market locations.\nSo
+ urce: https://williamsburg.apsva.us/post/11-16-2026/
+LOCATION:Lebanese Taverna (Westover and Market locations)
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR
