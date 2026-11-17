@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//WMS Wolf Ops//Morning Digest//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-11-17-20261117-bus-to-gunston-boys-soccer-girls-basketball-cheer@w
+ ms-wolfops
+DTSTAMP:20261117T112202Z
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261118
+SUMMARY:Bus to Gunston (Boys Soccer\, Girls Basketball\, Cheer)
+DESCRIPTION:Boys Soccer\, Girls Basketball\, and Cheer players should leave
+  6th period today at 2:20 p.m. and meet outside the library no later than 
+ 2:30 p.m. for the bus to the away game at Gunston. Questions: Ms. Hogwood.
+ \nSource: https://williamsburg.apsva.us/post/11-17-2026/
+LOCATION:Williamsburg Middle School library (bus to Gunston)
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

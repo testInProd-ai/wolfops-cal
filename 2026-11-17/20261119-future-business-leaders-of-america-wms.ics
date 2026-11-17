@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//WMS Wolf Ops//Morning Digest//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-11-17-20261119-future-business-leaders-of-america-wms@wms-wolfops
+DTSTAMP:20261117T112202Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+SUMMARY:Future Business Leaders of America (WMS)
+DESCRIPTION:Future Business Leaders of America meets Thursday\, November 19
+ \, during ASP 1 in room 136. Questions: Ms. Briones.\nSource: https://will
+ iamsburg.apsva.us/post/11-17-2026/
+LOCATION:Williamsburg Middle School room 136
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR
