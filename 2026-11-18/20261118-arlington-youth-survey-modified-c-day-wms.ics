@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//WMS Wolf Ops//Morning Digest//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-11-18-20261118-arlington-youth-survey-modified-c-day-wms@wms-wolfo
+ ps
+DTSTAMP:20261118T112800Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+SUMMARY:Arlington Youth Survey / modified C-Day (WMS)
+DESCRIPTION:Modified C-Day at Williamsburg Middle School because of the Arl
+ ington Youth Survey. After morning announcements\, all 6th and 8th graders
+  will take the survey. 7th graders are not taking the survey this year. TA
+  is extended until 8:25\, then students proceed to periods 1 through 7.\nS
+ ource: https://williamsburg.apsva.us/post/11-18-2026/
+LOCATION:Williamsburg Middle School
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR
