@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//WMS Wolf Ops//Morning Digest//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-11-20-20261120-open-gym-wms@wms-wolfops
+DTSTAMP:20261120T112624Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:Open Gym (WMS)
+DESCRIPTION:The PE department is hosting an Open Gym session today during A
+ SP 1. There is no late bus today\, so students need to arrange their own t
+ ransportation home. Questions: Ms. Hogwood.\nSource: https://williamsburg.
+ apsva.us/post/11-20-2026/
+LOCATION:Williamsburg Middle School
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

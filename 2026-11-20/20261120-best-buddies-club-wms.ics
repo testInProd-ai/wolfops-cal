@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//WMS Wolf Ops//Morning Digest//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-11-20-20261120-best-buddies-club-wms@wms-wolfops
+DTSTAMP:20261120T112624Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:Best Buddies Club (WMS)
+DESCRIPTION:The Best Buddies Club is meeting this morning in the main gym. 
+ Participants should check in with their TA teachers first\, then go to the
+  gym.\nSource: https://williamsburg.apsva.us/post/11-20-2026/
+LOCATION:Williamsburg Middle School main gym
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR
